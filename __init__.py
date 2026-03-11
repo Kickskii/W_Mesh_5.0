@@ -11,7 +11,7 @@ bl_info = {
     "category": "Object",
     "author": "Vit Prochazka",
     "version": (1, 1),
-    "blender": (5, 01),
+    "blender": (5, 0),
     "description": "Modify primitives after creation. Fixed for Blender 5.0 with love",
     "warning": "Unexpected bugs can be expected!"
 }
